@@ -23,7 +23,7 @@ local skiney = page:addSection("Skins")
 local otr = page:addSection("Others")
 
 aim:addButton("Silent Aim", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenlisku/Silent-Aim/main/lol", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenlisku/Silent-AimV2/main/DaHood", true))()
 end)
 
 -- second page
